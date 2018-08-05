@@ -1,0 +1,72 @@
+<Root type="OR" ref="Selenium Web Automation">
+  <Page title="Selenium - Web Browser Automation" ref="Selenium">
+    <ObjectGroup ref="Projects">
+      <Object frame="" ref="Projects">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Projects" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Selenium Projects']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li[5]/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Selenium Projects&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Selenium Projects" ref="Selenium1">
+    <ObjectGroup ref="Download">
+      <Object frame="" ref="Download">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Download" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Get Selenium']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li[4]/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Get Selenium&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Downloads" ref="Downloads">
+    <ObjectGroup ref="Documentation">
+      <Object frame="" ref="Documentation">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Documentation" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Technical references and guides']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li[3]/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Technical references and guides&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Selenium Documentation — Selenium Documentation" ref="Selenium2">
+    <ObjectGroup ref="Support">
+      <Object frame="" ref="Support">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="Support" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Get help with Selenium']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li[2]/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Get help with Selenium&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page title="Getting Help" ref="Getting">
+    <ObjectGroup ref="About">
+      <Object frame="" ref="About">
+        <Property value="" ref="name" pref="1"/>
+        <Property value="" ref="id" pref="2"/>
+        <Property value="About" ref="link_text" pref="3"/>
+        <Property value="//a[@title='Overview of Selenium']" ref="relative_xpath" pref="4"/>
+        <Property value="(/html/body/div[3]/div/ul/li/a)[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="a[title=&quot;Overview of Selenium&quot;]" ref="css" pref="7"/>
+        <Property value="a" ref="type" pref="8"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+</Root>
