@@ -1,0 +1,7 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.cricbuzz.com/,,
+2,International,"Click the [<Object>] ",Click,,,Cricket
+3,"274, 162-all out (54.2 Ovs)","Click the [<Object>] ",Click,,,Cricket
+4,Scorecard,"Click the [<Object>] ",Click,,,IND
+5,Highlights,"Click the [<Object>] ",Click,,,Cricket1
+6,Full Commentary,"Click the [<Object>] ",Click,,,Cricket2
